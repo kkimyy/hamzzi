@@ -9,7 +9,10 @@ button {
     background-color: blanchedalmond;
 }
 
+img {
+    width: 200px;
+)
+
 img:hover {
     cursor: pointer;
-    width: 200px;
 }
