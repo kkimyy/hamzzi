@@ -1,12 +1,16 @@
+body {
+    background-color:rgb(169, 199, 224);
+    text-align: center;
+}
+
 .mainTitle {
-    color:rgb(200, 111, 141);
+    color:rgb(55, 82, 140);
 }
 
 button {
-    color:rgb(83, 57, 19);
     height: 30px;
     width: 50px;
-    background-color: blanchedalmond;
+    background-color: rgb(220, 162, 207);
 }
 
 img {
@@ -15,4 +19,16 @@ img {
 
 img:hover {
     cursor: pointer;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+a:link, a:visited {
+    color:rgb(94, 34, 75);
+}
+
+a:hover, a:active {
+    color: black;
 }
