@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(169, 199, 224);
+    background-color:rgb(202, 219, 234);
     text-align: center;
 }
 
@@ -10,7 +10,7 @@ body {
 button {
     height: 30px;
     width: 50px;
-    background-color: rgb(220, 162, 207);
+    background-color: rgb(114, 191, 254);
 }
 
 img {
@@ -26,7 +26,7 @@ a {
 }
 
 a:link, a:visited {
-    color:rgb(94, 34, 75);
+    color:rgb(13, 0, 255);
 }
 
 a:hover, a:active {
