@@ -30,6 +30,7 @@ img:hover {
 
 a {
     text-decoration-line: none;
+    font-family: 'Poor Story', cursive;
 }
 
 a:link, a:visited {
